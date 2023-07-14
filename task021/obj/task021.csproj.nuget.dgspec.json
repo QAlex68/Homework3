@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Home\\homework3\\task021\\task021.csproj": {}
+    "d:\\C#\\Home\\Homework3\\task021\\task021.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Home\\homework3\\task021\\task021.csproj": {
+    "d:\\C#\\Home\\Homework3\\task021\\task021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Home\\homework3\\task021\\task021.csproj",
+        "projectUniqueName": "d:\\C#\\Home\\Homework3\\task021\\task021.csproj",
         "projectName": "task021",
-        "projectPath": "D:\\C#\\Home\\homework3\\task021\\task021.csproj",
+        "projectPath": "d:\\C#\\Home\\Homework3\\task021\\task021.csproj",
         "packagesPath": "C:\\Users\\qalex\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Home\\homework3\\task021\\obj\\",
+        "outputPath": "d:\\C#\\Home\\Homework3\\task021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\qalex\\AppData\\Roaming\\NuGet\\NuGet.Config"
